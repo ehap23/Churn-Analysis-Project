@@ -6,8 +6,6 @@ This document outlines a portfolio project focused on end-to-end churn analysis,
 ## Project Objectives
 This project aims to achieve the following:
 - **Data Analysis**: Visualize and analyze customer data at different levels, including demographic, geographic, payment and account information, and services used.
-- **Churner Profile**: Develop a profile of customers who have churned to understand the key drivers and characteristics of churn.
-- **Marketing Strategies**: Identify specific areas where targeted marketing campaigns can be implemented to improve customer retention.
 - **Churn Prediction**: Develop a method to predict which customers are likely to churn in the future, allowing for proactive intervention.
 
 ## Metrics
